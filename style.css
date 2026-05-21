@@ -1,0 +1,10 @@
+img {
+    width: 200px; /* largura desejada */
+    height: auto; /* mantém a proporção */
+        }
+body {
+    background-color: black;
+}
+h1, h3 {
+    color:rgb(255, 206, 255)
+}
