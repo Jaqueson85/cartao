@@ -1,12 +1,27 @@
 img {
     width: 200px; /* largura desejada */
     height: auto; /* mantém a proporção */
-    
+    margin-top: 50px;
+    border-radius: 25%;
         }
 body {
-    background-color: black;
+    background-color: rgb(62, 59, 59);
     text-align: center;
+    display: flex;
+    background-image: url(images\ \(3\).jfif);
+    background-size: 25%;
 }
 h1, h3 {
-    color:rgb(255, 206, 255)
+    color:rgb(255, 113, 113)
+}
+.cartao {
+    width: 75%;
+    height: auto;
+    background-color: rgb(96, 0, 0);
+    margin: auto;
+    border-radius: 3%;
+    border-style: outset;
+    border-color: rgb(211, 36, 141);
+    text-align: center;
+
 }
